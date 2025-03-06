@@ -3,6 +3,7 @@
 #### Process:
 
 The requirement was to step through each number between 1 and 100, and check if it was divisible by 3, 5, or both. Each of these conditions has a different output. 
+
 Approach 1:
 Define counter variable.
 Loop and incremement.
